@@ -165,7 +165,7 @@ The project connects to AWS Athena database (`s3_atmos_stclair`) containing **32
 | **Cloud & Database** | AWS Athena, AWS S3, Boto3, AWS Wrangler |
 | **ETL** | SQL (Athena queries) |
 | **Environment Management** | python-dotenv |
-| **Deployment** | NDY |
+| **Deployment** | TBD |
 | **Version Control** | Git, GitHub |
 
 
@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - St. Clair College - Data Analytics for Business Program
 - Halight Team for providing access to production data
