@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Halight Information Radiator AI - Live KPI Dashboards
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -234,3 +235,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Last Updated: February 09, 2026*  
 *Project Status: Active Development*
+=======
+# Halight-Group8
+>>>>>>> 799adecabb97ca07f54edbf4d7b964115e73b2de
